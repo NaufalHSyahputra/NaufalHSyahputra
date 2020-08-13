@@ -10,6 +10,8 @@
   
 
 - 🏠 I'm Indonesian, but I can speak English as well;  
+
+- 🎓 I graduated in bachelor of computer science (Sarjana Komputer in Bahasa Indonesia);
   
 
 - 🏢 I’m currently working at [PT. Arca International](http://arcacorp.com/);   
