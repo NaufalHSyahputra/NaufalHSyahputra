@@ -3,7 +3,7 @@
 </div>  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&style=flat-square&color=red)  
   
 
 ### <div align="center">👋 I'm Naufal Hakim Syahputra, you can called me Naufal. I'm a Fullstack Web Developer.</div>  
