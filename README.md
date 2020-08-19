@@ -6,7 +6,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&style=flat-square&color=red)  
   
 
-### <div align="left">👋 I'm Naufal Hakim Syahputra, you can called me Naufal. I'm a Fullstack Web Developer.</div>  
+### <div align="center">👋 I'm Naufal Hakim Syahputra, you can called me Naufal. I'm a Fullstack Web Developer.</div>  
   
 
 - 🏠 I'm Indonesian, but I can speak English as well;  
@@ -52,6 +52,7 @@
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png" alt="Deno.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
@@ -91,6 +92,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naufalhsyahputra&show_icons=true&count_private=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
