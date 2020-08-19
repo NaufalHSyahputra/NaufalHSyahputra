@@ -52,7 +52,8 @@
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png" alt="Deno.js" height="50" />  
+<img style="margin: 10px" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png" alt="Deno.js" height="50" />
+<img style="margin: 10px" src="https://www.educative.io/api/edpresso/shot/6687485556948992/image/4804947234258944" alt="Deno.js" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
@@ -91,4 +92,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naufalhsyahputra&show_icons=true&count_private=true" align="center" /></div>
+<br />
+
+## Most Used Languages Stats on Github
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhsyahputra&layout=compact" align="center" /></div>
 <br />
