@@ -31,37 +31,39 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="Redux" height="50" />  
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50" />    
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/laravel/art/5a8325b064634b900f25dbb6f1cafd888b2d2211/logo-mark/5%20svg/2%20cmyk/1%20Full%20Color/laravel-mark-cmyk-red.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" height="50" />  
 <!-- <img style="margin: 10px" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png" alt="Deno.js" height="50" />
 <img style="margin: 10px" src="https://www.educative.io/api/edpresso/shot/6687485556948992/image/4804947234258944" alt="Deno.js" height="50" /> -->
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-ar21.svg" alt="Mercurial" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />  
 </div></td></tr></table>  
 
 <br/>  
