@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="750" />
+<img src="hello-world.gif" align="center" height="" width="750" />
+  <h6>Image will be updated after I learn new programming languages.</h6>
 </div><br>
   
 
