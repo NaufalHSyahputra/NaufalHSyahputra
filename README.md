@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="750" />
-</div>  
+</div><br>
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&style=flat-square&color=red)  
+![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&style=flat-square)  
   
 
 ### <div align="center">👋 I'm Naufal Hakim Syahputra, you can called me Naufal. I'm a Fullstack Web Developer.</div>  
