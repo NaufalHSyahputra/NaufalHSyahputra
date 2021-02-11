@@ -1,9 +1,3 @@
-<div align="center">
-<img src="hello-world.gif" align="center" height="" width="750" />
-  <h6>Image will be updated after I learn new programming languages.</h6>
-</div><br>
-  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=naufalhsyahputra&style=flat-square)  
   
 
