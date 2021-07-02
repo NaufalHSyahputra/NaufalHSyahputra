@@ -39,7 +39,6 @@
 
 ### Backend  
 <div align="center">  
-<-- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" />  -->
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="50" />    
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="PHP" height="50" />  
