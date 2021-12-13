@@ -4,7 +4,7 @@
 
 - 🎓 I graduated in bachelor of computer science (Sarjana Komputer in Bahasa Indonesia);
   
-- 🏢 I’m currently working at [PT. Arca International](http://arcacorp.com/) as Full Stack Engineer;   
+- 🏢 I’m currently working at [PT Renos Marketplace Indonesia](https://www.renos.id/) as Backend Developer;   
 
 - 🌱 I’m currently learning Go and Node.JS;  
 
