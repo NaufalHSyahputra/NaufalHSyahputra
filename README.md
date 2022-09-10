@@ -6,31 +6,23 @@
   
 - 🏢 I’m currently working at [PT Renos Marketplace Indonesia](https://www.renos.id/) as Backend Developer;   
 
-- 🌱 I’m currently learning Go and Node.JS;  
-
-- 🥰 Love PHP but not fanatic, trying to love Javascript and Go as well.
+- 👨‍💻Writing code using PHP, Go, and Javascript 
 
 # My Skill Set  
 <p>
-  <img alt="html5" src="https://img.shields.io/static/v1?label=&logo=html5&message=HTML5&color=E34F26&logoColor=white&style=flat-square" />
-  <img alt="CSS" src="https://img.shields.io/static/v1?label=&logo=css3&message=CSS3&color=1572B6&logoColor=white&style=flat-square" />
-  <img alt="Bootsrap" src="https://img.shields.io/static/v1?label=&logo=bootstrap&message=Bootstrap&color=7952B3&logoColor=white&style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/static/v1?label=&logo=JavaScript&message=Javascript&color=F7DF1E&logoColor=white&style=flat-square" />
-  <img alt="React" src="https://img.shields.io/static/v1?label=&logo=react&message=React&color=61DAFB&logoColor=white&style=flat-square">
-  <img alt="Vue.JS" src="https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue.js&color=4FC08D&logoColor=white&style=flat-square" />
-  <img alt="Svelte" src="https://img.shields.io/static/v1?label=&logo=svelte&message=Svelte&color=FF3E00&logoColor=white&style=flat-square" /> 
-  <img alt="PHP" src="https://img.shields.io/static/v1?label=&logo=php&message=PHP&color=777BB4&logoColor=white&style=flat-square" />
-  <img alt="codeigniter3" src="https://img.shields.io/static/v1?label=&logo=codeigniter&message=CodeIgniter%203&color=EF4223&logoColor=white&style=flat-square" />
-  <img alt="laravel" src="https://img.shields.io/static/v1?label=&logo=laravel&message=Laravel&color=FF2D20&logoColor=white&style=flat-square" />
-  <img alt="nodejs" src="https://img.shields.io/static/v1?label=&logo=node.js&message=Node.js&color=339933&logoColor=white&style=flat-square" />
-  <img alt="go" src="https://img.shields.io/static/v1?label=&logo=go&message=Go&color=00ADD8&logoColor=white&style=flat-square" />
-  <img alt="mysql" src="https://img.shields.io/static/v1?label=&logo=mysql&message=MySQL&color=4479A1&logoColor=white&style=flat-square" />
-  <img alt="mariadb" src="https://img.shields.io/static/v1?label=&logo=mariadb&message=MariaDB&color=003545&logoColor=white&style=flat-square" />
-  <img alt="git" src="https://img.shields.io/static/v1?label=&logo=git&message=Git&color=F05032&logoColor=white&style=flat-square" />
-  <img alt="github" src="https://img.shields.io/static/v1?label=&logo=github&message=Github&color=181717&logoColor=white&style=flat-square" />
-  <img alt="mercurial" src="https://img.shields.io/static/v1?label=&logo=mercurial&message=Mercurial&color=999999&logoColor=white&style=flat-square" />
-  <img alt="docker" src="https://img.shields.io/static/v1?label=&logo=docker&message=Docker&color=2496ED&logoColor=white&style=flat-square" />
-  <img alt="linux" src="https://img.shields.io/static/v1?label=&logo=linux&message=Linux&color=FCC624&logoColor=white&style=flat-square" />
+  <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img alt="svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="pgsql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="do" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </p>
 
 
